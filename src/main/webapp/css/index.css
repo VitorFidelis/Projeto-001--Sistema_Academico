@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto;
+	background-image: linear-gradient( to top,rgb(255, 255, 255) 70% ,rgb(78, 83, 199) 70%);
+	height: 100vh;
+		
+}
+
+/*===== Navbar ====*/
+.navbar.navbar-expand-sm{
+	/*background-color:rgb(58, 61, 147);*/
+	background-image: linear-gradient( to bottom, rgb(58, 61, 147) 10% ,rgb(78, 83, 199) 100%);
+}
+
+
+/*===== Main ====*/
+h3{
+	color:rgb(255, 255, 255);
+	padding: 20px;
+}
+
+div.container{
+	display: flex;
+	justify-content: space-evenly;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 20px;
+	background-color:rgb(255, 255, 255);
+	max-width: 60%;
+	height: 70%;
+	box-shadow: 2px 2px 20px 2px rgb(140, 140, 140);
+	
+}
+
+div.container a{
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+div.container a:hover{
+	color: rgb(58, 61, 147);
+	text-decoration: none;
+}
+
+/*===== Footer ====*/
+
+

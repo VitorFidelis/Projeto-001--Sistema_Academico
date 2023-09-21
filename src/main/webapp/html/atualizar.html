@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="../css/atualizar.css" media="screen" />
+<title>Sistema Acadêmico</title>
+</head>
+
+<body>
+	<!-- Start navbar -->
+	<nav class="navbar navbar-expand-sm">
+  		<div class="container-fluid">
+    		<a class="navbar-brand" style="color: white;" href="atualizar.html"> 
+      		<img src="../images/logo_principal.png" alt="Avatar Logo" style="width:55px; background-color: white; padding: 3px;" class="rounded-pill"> 
+      		Sistemas Academico
+    		</a>
+  		</div>
+  	</nav>
+  	<!-- End navbar -->
+  	
+  	<h3>page/atualizar</h3>
+  	<!--Start Main-->
+  	<div class="container">
+		<form class="row" action="../ServletAluno?cmd=atu" method="post">
+			<div class="col-sm-6">
+				 <label for="inputRa" class="form-label" name="txtRa">RA do Aluno:</label>
+				 <input type="text" class="form-control" id="inputRa" name="txtRa">
+			</div>
+			<div class="col-b-4">
+				<button type="submit" class="btn btn-primary" value="Enviar">Enviar</button>
+			</div>	 
+  		</form>
+	</div>
+	<!--End Main-->
+</body>
+</html>
