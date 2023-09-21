@@ -20,8 +20,6 @@
 
 <h3>3° Page Atualizar 📸<h3>
 <img src="imagens/3 - page.png" alt="pagina incluir">
-
-<h4>Continuação da página Atualizar<h4>
 <img src="imagens/4 - page.png" alt="pagina incluir">
 
 <!--------------------------------------------------->
