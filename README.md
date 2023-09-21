@@ -1,16 +1,11 @@
 # Projeto-001--Sistema_Academico
 
-
-
-Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e JavaBeans.
-
-
 ➜ Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e JavaBeans.
 
     › Esses componentes são responsáveis pelo armazenamento temporário dos dados que serão transitados a cada requisição/resposta em uma página na web.
 
     › Banco de dados MySQL utilizando o XAMPP como ambiente de desenvolvimento
-    
+
     › CRUD (Create, Read, Update, Delete)
 
 <h3>1° Page Princiapl 📸<h3>
