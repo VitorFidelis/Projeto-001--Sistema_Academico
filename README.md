@@ -1,5 +1,7 @@
 # Projeto-001--Sistema_Academico
 
+
+
 Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e JavaBeans.
 
  | Skills:
@@ -49,3 +51,6 @@ Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e 
 
 
 
+=======
+Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e JavaBeans.
+>>>>>>> ca8128b60a561882dc3b993345b4bd28e1c7d2d3
