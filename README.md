@@ -4,17 +4,14 @@
 
 Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e JavaBeans.
 
- | Skills:
 
 ➜ Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e JavaBeans.
 
     › Esses componentes são responsáveis pelo armazenamento temporário dos dados que serão transitados a cada requisição/resposta em uma página na web.
 
-➜ Banco de dados MySQL utilizando o XAMPP como ambiente de desenvolvimento
-
- | objective:
-
-➜  CRUD (Create, Read, Update, Delete)
+    › Banco de dados MySQL utilizando o XAMPP como ambiente de desenvolvimento
+    
+    › CRUD (Create, Read, Update, Delete)
 
 <h3>1° Page Princiapl 📸<h3>
 <img src="/imagens/1- page.png" alt="pagina inicial">
@@ -48,9 +45,3 @@ Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e 
 
 <h3>4° Page Listar 📸<h3>
 <img src="imagens/9 - page.png" alt="pagina Listar">
-
-
-
-=======
-Páginas compostas por componentes web como: JavaServer Pages (JSP), servlets e JavaBeans.
->>>>>>> ca8128b60a561882dc3b993345b4bd28e1c7d2d3
